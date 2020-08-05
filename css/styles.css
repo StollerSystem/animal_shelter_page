@@ -1,0 +1,25 @@
+.text1 {
+  margin: auto;
+  text-align: center;
+  text-emphasis-style: bold;
+  color: blue;
+  width: 50%;
+  border: solid black;
+  border-width: 5px;
+  background-color: pink;
+  margin-bottom: 10px;
+  
+}
+
+.animals img {
+  border-color: blueviolet;
+  border-width: 10px;
+}
+.picture {
+  margin: auto;    
+  border: solid black;
+  padding: 20px;
+  border-width: 5px;  
+  
+
+}
