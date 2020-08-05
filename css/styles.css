@@ -7,19 +7,22 @@
   border: solid black;
   border-width: 5px;
   background-color: pink;
-  margin-bottom: 10px;
-  
+  margin-bottom: 10px;  
 }
 
-.animals img {
-  border-color: blueviolet;
-  border-width: 10px;
+img {
+  border: solid 5px black;
 }
-.picture {
-  margin: auto;    
-  border: solid black;
-  padding: 20px;
-  border-width: 5px;  
+
+ul {
+  width: 25%;
+  margin: auto;
+}
+
+p {
+  text-align: center;
+  text-emphasis-style: bold;
+  color: blue;
+}
   
 
-}
