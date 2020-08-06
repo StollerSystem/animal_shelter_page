@@ -33,4 +33,9 @@ body {
   background-color: blueviolet;
 }
   
-
+@media screen and (max-width: 1500px) {
+  body {
+      background-color: rgb(255, 0, 85);
+      color: white;
+  }   
+}
