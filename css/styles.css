@@ -2,7 +2,7 @@
   margin: auto;
   text-align: center;
   text-emphasis-style: bold;
-  color: blue;
+  color: red;
   width: 50%;
   border: solid black;
   border-width: 5px;
@@ -12,6 +12,8 @@
 
 img {
   border: solid 5px black;
+  margin: auto;
+  width: 90%
 }
 
 ul {
@@ -20,10 +22,15 @@ ul {
   margin: auto;
 }
 
-.animals p {  
+.animals p { 
+  font-size: xx-large;
   text-align: center;
   text-emphasis-style: bold;
-  color: blue;
+  color: yellow;
+}
+
+body {
+  background-color: blueviolet;
 }
   
 
